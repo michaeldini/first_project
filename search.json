@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "first_project",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "first_project",
+    "section": "Install",
+    "text": "Install\npip install first_project"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "first_project",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  },
+  {
+    "objectID": "first_project.html",
+    "href": "first_project.html",
+    "title": "My First Project",
+    "section": "",
+    "text": "source\n\nwhat_is_the_time\n\n what_is_the_time ()\n\n\nwhat_is_the_time()\n\n'2022-11-17'\n\n\n\nfrom fastcore.test import *\ntest_eq(type(what_is_the_time()), str)"
+  }
+]

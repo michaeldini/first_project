@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "first_project"
+  site-url: "https://michaeldini.github.io/first_project"
+  description: "my first project to go through setting up nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/michaeldini/first_project"

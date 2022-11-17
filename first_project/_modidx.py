@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://michaeldini.github.io',
                 'git_url': 'https://github.com/michaeldini/first_project',
                 'lib_path': 'first_project'},
-  'syms': {'first_project.core': {'first_project.core.foo': ('core.html#foo', 'first_project/core.py')}}}
+  'syms': { 'first_project.first_project': { 'first_project.first_project.what_is_the_time': ( 'first_project.html#what_is_the_time',
+                                                                                               'first_project/first_project.py')}}}
